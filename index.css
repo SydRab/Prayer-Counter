@@ -1,0 +1,53 @@
+body {
+    background-image: url("beads.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    font-family: Roboto, cursive, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: lavender;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: lightcyan;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 50px;
+}
+
+#increment-btn {
+    background: cadetblue;
+}
+
+#save-btn {
+    background: bisque;
+    text-shadow: 0 0 3px black;
+}
+
+p {
+    color: whitesmoke;
+    text-shadow: 0 0 5px black;
+    margin: 100px;
+    background-color: mediumseagreen
+}
+
+#wrap {
+    max-width: 100%
+}
+
